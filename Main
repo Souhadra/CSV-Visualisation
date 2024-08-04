@@ -241,3 +241,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+#use Streamlit run main.py to execute this
